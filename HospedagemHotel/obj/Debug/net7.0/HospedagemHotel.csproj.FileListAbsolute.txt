@@ -1,0 +1,15 @@
+C:\Users\Camila Batista\OneDrive\2024\Estudos\DotNet\Desafios\sistema-hospedagem-hotel\HospedagemHotel\bin\Debug\net7.0\HospedagemHotel.exe
+C:\Users\Camila Batista\OneDrive\2024\Estudos\DotNet\Desafios\sistema-hospedagem-hotel\HospedagemHotel\bin\Debug\net7.0\HospedagemHotel.deps.json
+C:\Users\Camila Batista\OneDrive\2024\Estudos\DotNet\Desafios\sistema-hospedagem-hotel\HospedagemHotel\bin\Debug\net7.0\HospedagemHotel.runtimeconfig.json
+C:\Users\Camila Batista\OneDrive\2024\Estudos\DotNet\Desafios\sistema-hospedagem-hotel\HospedagemHotel\bin\Debug\net7.0\HospedagemHotel.dll
+C:\Users\Camila Batista\OneDrive\2024\Estudos\DotNet\Desafios\sistema-hospedagem-hotel\HospedagemHotel\bin\Debug\net7.0\HospedagemHotel.pdb
+C:\Users\Camila Batista\OneDrive\2024\Estudos\DotNet\Desafios\sistema-hospedagem-hotel\HospedagemHotel\obj\Debug\net7.0\HospedagemHotel.csproj.AssemblyReference.cache
+C:\Users\Camila Batista\OneDrive\2024\Estudos\DotNet\Desafios\sistema-hospedagem-hotel\HospedagemHotel\obj\Debug\net7.0\HospedagemHotel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Camila Batista\OneDrive\2024\Estudos\DotNet\Desafios\sistema-hospedagem-hotel\HospedagemHotel\obj\Debug\net7.0\HospedagemHotel.AssemblyInfoInputs.cache
+C:\Users\Camila Batista\OneDrive\2024\Estudos\DotNet\Desafios\sistema-hospedagem-hotel\HospedagemHotel\obj\Debug\net7.0\HospedagemHotel.AssemblyInfo.cs
+C:\Users\Camila Batista\OneDrive\2024\Estudos\DotNet\Desafios\sistema-hospedagem-hotel\HospedagemHotel\obj\Debug\net7.0\HospedagemHotel.csproj.CoreCompileInputs.cache
+C:\Users\Camila Batista\OneDrive\2024\Estudos\DotNet\Desafios\sistema-hospedagem-hotel\HospedagemHotel\obj\Debug\net7.0\HospedagemHotel.dll
+C:\Users\Camila Batista\OneDrive\2024\Estudos\DotNet\Desafios\sistema-hospedagem-hotel\HospedagemHotel\obj\Debug\net7.0\refint\HospedagemHotel.dll
+C:\Users\Camila Batista\OneDrive\2024\Estudos\DotNet\Desafios\sistema-hospedagem-hotel\HospedagemHotel\obj\Debug\net7.0\HospedagemHotel.pdb
+C:\Users\Camila Batista\OneDrive\2024\Estudos\DotNet\Desafios\sistema-hospedagem-hotel\HospedagemHotel\obj\Debug\net7.0\HospedagemHotel.genruntimeconfig.cache
+C:\Users\Camila Batista\OneDrive\2024\Estudos\DotNet\Desafios\sistema-hospedagem-hotel\HospedagemHotel\obj\Debug\net7.0\ref\HospedagemHotel.dll
